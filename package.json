@@ -1,0 +1,33 @@
+{
+  "name": "verdantfullstackversion",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ArkanWiryaS/VerdantFullstackVersion#readme",
+  "bugs": {
+    "url": "https://github.com/ArkanWiryaS/VerdantFullstackVersion/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkanWiryaS/VerdantFullstackVersion.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mailtrap": "^4.1.0",
+    "mongoose": "^8.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
